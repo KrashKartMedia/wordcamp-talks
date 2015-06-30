@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WordCamp Talks
- * Plugin URI: http://russellaaron.vegas
+ * Plugin URI: https://github.com/KrashKartMedia/wordcamp-talks/
  * Description: plugin simply creates a post type called wordcamp talks & metaboxes
  * Version: 1.0.0
  * Author: Russell Aaron
