@@ -1,5 +1,5 @@
 # WordCamp Talks
-A plugin that displays your WordCamp Talks on your WordPress Blog.
+A plugin that displays your WordCamp Talks on your WordPress Blog. Simply install and click on WordCamp Talks in the Left Nav menu. Add a new talk. Don't forget the metabox down at the bottom. Preview the talk, below the content you should see 3 links. Use the shortcodes if you want to. 
 
 ## Installation - WordPress Dashboard
 1. Download plugin
