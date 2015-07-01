@@ -25,6 +25,9 @@ A plugin that displays your WordCamp Talks on your WordPress Blog. Simply instal
 ##Shortcodes
 [wordcamp-talks] //put this on a page to display all WordCamp Talks
 <br>
+
+The shortlinks below go inside of the post content and will not display on any other post/page. <br>
+
 [wc-presentation-url] //links to the presentation url<br>
 [wc-talk-video] //links to the presentation video<br>
 [wc-talk-url] //links to the session description<br>
