@@ -9,6 +9,7 @@ A plugin that displays your WordCamp Talks on your WordPress Blog. Simply instal
 5. Select .Zip file
 6. Click Install Now
 7. Activate WordCamp Talks Plugin
+8. Go to Settings > Permalinks and update your permalinks. You do not have to change the permalink structure. Simply click save changes. For what ever reasoning, new custom post types wont show on the front end unless you update the permalinks. 
 
 ## Installation - FTP Client
 1. Download plugin
@@ -19,6 +20,7 @@ A plugin that displays your WordCamp Talks on your WordPress Blog. Simply instal
 6. Log into to WordPress Dashboard
 7. Visit Plugins > Installed Plugins
 8. Activate WordCamp Talks Plugin
+9. Go to Settings > Permalinks and update your permalinks. You do not have to change the permalink structure. Simply click save changes. For what ever reasoning, new custom post types wont show on the front end unless you update the permalinks. 
 
 ##Shortcodes
 [wordcamp-talks] //put this on a page to display all WordCamp Talks
